@@ -20,6 +20,7 @@
 - [Konzeption einer IT-Ausstattung](./Themen/IT-Systeme_und_Netzwerke/Konzeption_IT-Ausstattung.md)
 - [Server-Virtualisierung](./Themen/IT-Systeme_und_Netzwerke/Server-Virtualisierung.md)
 - [Verschlüsselungsverfahren](./Themen/IT-Systeme_und_Netzwerke/Verschlüsselungsverfahren.md)
+- [Zentrale und dezentrale IT-Infrastruktur](./Themen/IT-Systeme_und_Netzwerke/Zentrale_und_Dezentrale_IT-Infrastruktur.md)
 
 ### 4. Netzwerktechnik
 - [IPv4 und IPv6 Informationen](./Themen/Netzwerktechnik/IPv4_und_IPv6_Informationen.md)
